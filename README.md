@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **keerthireddy0508@gmail.com**
 
-- 📄 Know about my experiences [/Users/keerthi/Desktop/Resume.docx](/Users/keerthi/Desktop/Resume.docx)
+- 📄 Know about my experiences [https://github.com/KeerthiP08/KeerthiP08/blob/main/Resume1.docx)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
