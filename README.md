@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keerthi</h1>
-<h3 align="center">🎓 **Master's in Artificial Intelligence** | University of North Texas
-  <br>
-  💻 **Aspiring AI Specialist** | Focused on Machine Learning, NLP, and Deep Learning
-  <br>
-  🌟 **Seeking Internship Opportunities** | Let’s innovate together!</h3>
+<h3 align="center">A passionate AI enthusiast, focused on machine learning and innovative solutions.</h3>
 
 <img align="right" alt="coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif">
 
