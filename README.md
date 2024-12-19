@@ -58,7 +58,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechicons.dev%2Ficons%2Fflask&psig=AOvVaw1BvOxADKw7gORXXnWca2nx&ust=1734680458784000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiUz-Sqs4oDFQAAAAAdAAAAABAK" alt="flask" width="30" height="30"/>
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/>
