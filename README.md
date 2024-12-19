@@ -58,7 +58,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://flask.palletsprojects.com/en/stable/_static/flask-vertical.png" alt="flask" width="30" height="30"/>
+    <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="flask" width="30" height="30"/>
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/>
