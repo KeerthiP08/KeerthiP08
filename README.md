@@ -1,4 +1,4 @@
-![logo](https://github.com/KeerthiP08/KeerthiP08/blob/main/KEERTHI%20REDDY%20PAPAIAHGARI.png)
+![logo](https://github.com/KeerthiP08/KeerthiP08/blob/main/Blue%20And%20Yellow%20Modern%20Cybersecurity%20Specialist%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Keerthi</h1>
 <h3 align="center">A passionate AI enthusiast, focused on machine learning and innovative solutions.</h3>
 
